@@ -1,4 +1,4 @@
-Denny's vimrc
+Remus's vimrc
 ===
 
 How to use?
@@ -9,7 +9,7 @@ Backup your original `.vimrc` and `.vim` settings.
 In home directory, 
 
 ```
-git clone https://github.com/denny0223/.vim.git && ln -s .vim/.vimrc
+git clone https://github.com/remuswu1019/.vim.git && ln -s .vim/.vimrc
 ```
 
 use vim to open any file, vim plugin will be automatically installed.
